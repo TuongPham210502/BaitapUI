@@ -50,7 +50,8 @@
             android:layout_marginTop="30dp"
             android:backgroundTint="#0080ff"
             android:text="LOGIN"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:id="@+id/button"/>
 
         <TextView
             android:layout_width="wrap_content"
@@ -61,6 +62,13 @@
             android:text="Forgot password?"
             android:textColor="#0080ff"
 
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Phạm Khắc Tưởng-2050531200328"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
             />
     </LinearLayout>
 
